@@ -1,1 +1,2 @@
 My first line after creating new file
+Now i added second line in file
