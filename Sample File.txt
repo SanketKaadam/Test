@@ -2,3 +2,4 @@ My first line after creating new file
 Now i added second line in file
 Now i added third line of Possibility1 branch Sample file
 Added 4th line in Possibility1 branch Sample file
+Added 5th line for conflict in SampleFile of Possibility1 branch
